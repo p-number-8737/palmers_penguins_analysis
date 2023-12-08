@@ -1,16 +1,7 @@
 # Palmers_Penguins_Analysis
+
 This is a repository storing all of the files for my RProject using the Palmers Penguins dataset.
-
 ---
-title: "Palmer_Penguins_Analysis"
-output:
-  html_document: default
-date: "2023-12-07"
----
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 **candidate number: 1064454**
 
 ## QUESTION 1: Data Visualisation for Science Communication
