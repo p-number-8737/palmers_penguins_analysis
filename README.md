@@ -33,7 +33,7 @@ ggplot(penguins, aes(x = flipper_length_mm, y = body_mass_g, color = species)) +
         plot.background = element_rect(fill = "orange")) 
 
 ```
-
+![very ugly plot](
 ### b) How do my data visualisation choices mislead the reader about the underlying data?
 
 Data visualisation is the first important step in understanding the relationship between data categories i.e. body mass and bill length. There are 4 key ways to ensure correct data visualisation: clear graphical elements, showing data, honest magnitudes and showing patterns.
