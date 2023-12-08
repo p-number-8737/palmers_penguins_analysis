@@ -1,6 +1,7 @@
 # Palmers_Penguins_Analysis
 
 This is a repository storing all of the files for my RProject using the Palmers Penguins dataset.
+Please go to the following .md file for my answers to Q1, 2 and 3: [Penguin_Analysis](Penguin_analysis.Rmd)
 ---
 **candidate number: 1064454**
 
